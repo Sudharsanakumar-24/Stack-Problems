@@ -12,6 +12,7 @@ class CarFleetProblem {
             while(st.size()>1&&st.peek()<=st.get(st.size()-2))
                 st.pop();
         }
-        return st.size();
+        return st.size()
     }
 }
+dcv
